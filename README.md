@@ -58,15 +58,4 @@
 
 ---
 
-### 📫 Let's Connect
 
-<p align="left">
-  <a href="https://linkedin.com/in/shweta8923" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>
