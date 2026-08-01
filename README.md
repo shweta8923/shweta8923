@@ -42,8 +42,8 @@
 |---|---|---|
 | 🛍️ **[Myntra Sales – MIS Report](https://github.com/shweta8923/myntra-sales-mis-report)** | Formula-driven MIS report analyzing 300+ e-commerce orders — monthly, category, brand & state-wise sales trends, and returns analysis | Excel (SUMIF, COUNTIF, INDEX-MATCH) |
 | ⚡ **[Indian EV Market Dashboard](https://github.com/shweta8923/indian-ev-market-dashboard)** | Interactive dashboard tracking India's EV sales growth, YoY trends, and charging infrastructure across states | Power BI |
-| 🚗 **Norway Car Sales Dashboard** | Analysis of car sales trends and performance metrics in the Norwegian automotive market | Power BI |
-| 👥 **HR Attrition Dashboard** | Dashboard tracking employee attrition, department-wise trends, and performance metrics | Power BI |
+| 🚗 **[Norway Car Sales Dashboard](https://github.com/shweta8923/norway-car-sales-dashboard)** | Analysis of car sales trends and performance metrics in the Norwegian automotive market | Power BI |
+| 👥 **[HR Attrition Dashboard](https://github.com/shweta8923/hr-attrition-dashboard)** | Dashboard tracking employee attrition, department-wise trends, and performance metrics | Power BI |
 | 🛒 **[ShopSmart – E-commerce SQL Database](https://github.com/shweta8923/shopsmart-ecommerce-sql)** | Self-designed relational database with analytical queries — top customers, revenue by category, delivery time analysis | MySQL |
 
 *(📌 Add your Power BI Service published links here once available)*
